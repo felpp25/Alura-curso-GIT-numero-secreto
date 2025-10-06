@@ -1,7 +1,7 @@
 # Versionamento GIT 
 ## Curso de vercionamento e GIT e repositório GITHUB
 
-## Técnologias usadas 
+## Tecnologias usadas 
 
 
 <p align="left">
@@ -10,3 +10,5 @@
   <img src = https://camo.githubusercontent.com/b50d4b5449ac9bed0fc02238425fd56db93011d5019563595023ff0bb1a02162/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b />
 </p>
 
+#### Sobre
+** Projeto utilizado para aprender versionamento de GIT e repositórios
