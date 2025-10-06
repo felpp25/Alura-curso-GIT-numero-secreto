@@ -11,4 +11,4 @@
 </p>
 
 #### Sobre
-** Projeto utilizado para aprender versionamento de GIT e repositórios
+**Projeto utilizado para aprender versionamento de GIT e repositórios
